@@ -1,0 +1,3 @@
+En este repositorio encontraras un ejemplo bastante sencillo y muy tonto
+
+Le dedique 5 minutos, si quieres aprender mas de sockets solo avisame (:
