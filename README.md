@@ -1,4 +1,4 @@
-# Socket_Python
+# IMPORTANTE!!!
 Un simple y pequeño ejemplo de sockets para distraerse un poco
 Solo le dedique 5 minutos, asi que no es gran cosa
 
